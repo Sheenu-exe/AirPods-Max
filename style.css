@@ -637,10 +637,10 @@ li>a>i{
         width: 370px;
         position: absolute;
         top: 172vh;
-        left:10px;
+        left:5px;
         font-family: 'Roboto', sans-serif;
         font-weight: 900;
-        margin:20px
+        margin:10px
     }
     button.bttn.b2{
         visibility: hidden;
