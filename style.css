@@ -485,6 +485,7 @@ li>a>i{
 @media screen and (max-width:450px){
     html{
         height: fit-content;
+      overflow-x:hidden
     }
     
     a.navbar-brand>i{
